@@ -65,7 +65,7 @@ python setup.py build_ext --inplace
 ```
 
 ### 2.3 导入动态链接库
-# 导入当前环境的torch/lib和声明一下LD_PATH
+导入当前环境的torch/lib和声明一下LD_PATH
 ```bash
 export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/aiart/.conda/envs/image/lib/python3.10/site-packages/torch/lib
 export LD_LIBRARY_PATH=/usr/local/lib:$LD_LIBRARY_PATH
