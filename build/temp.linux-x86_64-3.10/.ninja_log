@@ -1,0 +1,8 @@
+# ninja log v5
+0	2571	1740540822468830146	/mnt/hd1/cxh/liwen/AffineTransform/build/temp.linux-x86_64-3.10/warp_affine_bind.o	1b1d1727a740b4dd
+1	2583	1740540979682762276	/mnt/hd1/cxh/liwen/AffineTransform/build/temp.linux-x86_64-3.10/warp_affine_bind.o	1b1d1727a740b4dd
+1	2617	1740541063435727415	/mnt/hd1/cxh/liwen/AffineTransform/build/temp.linux-x86_64-3.10/warp_affine_bind.o	1b1d1727a740b4dd
+1	2688	1740541089076716894	/mnt/hd1/cxh/liwen/AffineTransform/build/temp.linux-x86_64-3.10/warp_affine_bind.o	1b1d1727a740b4dd
+1	2560	1740541130561700007	/mnt/hd1/cxh/liwen/AffineTransform/build/temp.linux-x86_64-3.10/warp_affine_bind.o	1b1d1727a740b4dd
+1	2535	1740542073927778409	/mnt/hd1/cxh/liwen/AffineTransform/build/temp.linux-x86_64-3.10/warp_affine_kernel.o	ab691bde0da9a02
+2	2573	1740543548725141041	/mnt/hd1/cxh/liwen/AffineTransform/build/temp.linux-x86_64-3.10/warp_affine_kernel.o	ab691bde0da9a02
