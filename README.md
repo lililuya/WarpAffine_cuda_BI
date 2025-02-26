@@ -119,6 +119,6 @@ print("Output image saved as output.jpg")
 ```
 
 ## 3. 参考
-[cuda核函数实现](https://github.com/Rex-LK/tensorrt_learning/tree/main)
-[双线性差值算法](https://blog.csdn.net/weixin_42108183/article/details/124199939)
-[Opencv编译](https://blog.csdn.net/weixin_65269400/article/details/140178341)
+- [cuda核函数实现](https://github.com/Rex-LK/tensorrt_learning/tree/main) 
+- [双线性差值算法](https://blog.csdn.net/weixin_42108183/article/details/124199939)
+- [Opencv编译](https://blog.csdn.net/weixin_65269400/article/details/140178341)
